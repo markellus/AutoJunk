@@ -1,0 +1,8 @@
+.vs
+Output
+bin
+packages
+*/obj/
+!build/*
+*.Designer.cs
+*.csproj.user
